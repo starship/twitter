@@ -4,7 +4,7 @@
 
 ## How to contribute a tweet
 
-Follow [these instructions](./tweets) for a detailed guide, but the short version is: create a `.tweet` file in `/tweets` and open a pull request. We'll review it, and once it's merged, the [@starship_prompt](https://twitter.com/starship_prompt) Twitter account will tweet it out!
+Follow [these instructions](./tweets) for a detailed guide, but the short version is: create a `.tweet` file in `/tweets` and open a pull request. We'll review it, and once it's merged, the [@StarshipPrompt](https://twitter.com/StarshipPrompt) Twitter account will tweet it out!
 
 ## What to Tweet
 
