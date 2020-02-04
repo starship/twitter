@@ -1,0 +1,7 @@
+Starship v0.34.1 was released!
+🎁 Newly added `haskell` module
+🏎 Big performance improvements in large directories
+🧡 The `package` module is now orange
+... and much more
+
+Check out the changelog: https://github.com/starship/starship/releases/tag/v0.34.1
