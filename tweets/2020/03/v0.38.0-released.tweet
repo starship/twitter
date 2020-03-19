@@ -5,5 +5,4 @@
 New features:
 💧 An @elixirlang module with the locally installed version
 🚢 A @SingularityApp module with the running container name
-📦 Node package version is hidden for private packages
 👣 Reduced the Starship binary size by up to 40%
